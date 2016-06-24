@@ -1,0 +1,19 @@
+{
+  "name": "ngsandbox",
+  "version": "1.0.0",
+  "authors": "Ali Tabibzadeh <ali@tabibza.de>",
+  "main": "Gruntfile.js",
+  "license": "MIT",
+  "dependencies": {
+    "material-design-iconic-font": "~2.2.0",
+    "material-colors": "~1.0.0",
+    "foundation-sites": "~6.2.0",
+    "bourbon": "~4.2.6",
+    "angular": "^1.5.7",
+    "angular-resource": "^1.5.7",
+    "angular-route": "^1.5.7"
+  },
+  "resolutions": {
+    "jquery": "~2.2.0"
+  }
+}
